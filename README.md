@@ -31,12 +31,10 @@ Enter soil details and the crop you plan to grow, and FarmOK will suggest which 
 3. Plant Disease Detection
 Upload a photo of a plant leaf and the model will identify whether it’s healthy or diseased. If diseased, it provides information about the disease and possible treatments.
 
-📊 Datasets
-Crop recommendation dataset (open-source)
-
-Fertilizer dataset (customized for this project)
-
-Plant disease dataset (publicly available)
+## DATA SOURCE 📊
+- [Crop recommendation dataset ](https://www.kaggle.com/atharvaingle/crop-recommendation-dataset) (custom built dataset)
+- [Fertilizer suggestion dataset](https://github.com/Gladiator07/Harvestify/blob/master/Data-processed/fertilizer.csv) (custom built dataset)
+- [Disease detection dataset](https://www.kaggle.com/vipoooool/new-plant-diseases-dataset)
 
 ⚙️ Tech Stack
 Languages: Python, HTML, CSS, JavaScript
@@ -45,14 +43,7 @@ Frameworks: Flask, Bootstrap
 
 Libraries: NumPy, Pandas, Matplotlib, Scikit-learn, PyTorch
 
-Deployment: Heroku / Cloud hosting
 
-Version Control: Git & GitHub
-
-🚀 Deployment
-FarmOK can be deployed on Heroku or any cloud platform.
-
-Note: If using Heroku free tier, the server might take some time to wake up if inactive.
 
 ---
 
