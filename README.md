@@ -58,7 +58,7 @@ git clone https://github.com/kalesh-94/FarmOK
 
 3. **Create a virtual environment:**
 ```
-conda create -n farmok python=3.6
+conda create -n farmok python=3.6.12
 conda activate farmok
 ```
 
